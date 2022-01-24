@@ -1,5 +1,5 @@
 const list_lol = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*𝑲 𝑨 𝑲 𝑨 𝑺 𝑯 𝑰 숬*
 				
 PROSES	1-180Mnt 1X24 Jam			
 OPEN	10.00-19.00			
