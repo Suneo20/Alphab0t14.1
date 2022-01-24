@@ -8,9 +8,7 @@ const donasibot = () => {
 	ㅁ 0822 3039 7507
 3. DANA
 	ㅁ 0822 3039 7507
-	
-`
-	}
+}
 
 exports.donasibot = donasibot
  
